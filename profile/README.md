@@ -36,11 +36,13 @@ Big digital eyes, a glitch smile, a revolver behind his back.
 | [Invisible-backend](https://github.com/GlitchedDevelopers/invsible-backend) | The place of developer\'s battle with CI/CD and compilers | NULL |
 
 ## 👥 Team
-```
-Shizamuru  Copper-9   🖥️ Backend + Embedded
-VladN13 Unknown  🖤 Frontend + Шутки 
-Vovakovtyn2008 Russia ⚛️ Riding the quantum bear
-Nei  Цифровой мир  🤖 Маскот + QA (intentionally break all)
+| User | Location | Role |
+|------|----------|------|
+|Shizamuru|Copper-9|🖥️ Backend + Embedded|
+|VladN13|Unknown|🖤 Frontend + Jokes|
+|Vovakovtyn2008|Russia|⚛️ Riding the quantum bear|
+
+Nei live in digital world and she is Mascot + QA (intentionally break all) 🤖
 ```
 
 ## 🎉 Statistics
