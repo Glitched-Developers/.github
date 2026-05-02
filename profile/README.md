@@ -32,8 +32,8 @@ Big digital eyes, a glitch smile, a revolver behind his back.
 ## 💼 Repositories
 | Repo | Description | ⭐ Stars |
 |------|----------|---------|
-| [Invisible](https://github.com/GlitchedDevelopers/glitch-engine) | Like Telegram, only with a budget of a pack of chips | NULL |
-| [Invisible-backend](https://github.com/GlitchedDevelopers/cyber-deploy) | The place of developer\'s battle with CI/CD and compilers | NULL |
+| [Invisible](https://github.com/GlitchedDevelopers/invsible) | Like Telegram, only with a budget of a pack of chips | NULL |
+| [Invisible-backend](https://github.com/GlitchedDevelopers/invsible-backend) | The place of developer\'s battle with CI/CD and compilers | NULL |
 
 ## 👥 Team
 ```
