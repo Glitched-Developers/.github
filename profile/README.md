@@ -41,7 +41,6 @@ Shizamuru  Copper-9   🖥️ Backend + Embedded
 VladN13 Unknown  🖤 Frontend + Шутки 
 Vovakovtyn2008 Russia ⚛️ Riding the quantum bear
 Nei  Цифровой мир  🤖 Маскот + QA (intentionally break all)
-
 ```
 
 ## 🎉 Statistics
