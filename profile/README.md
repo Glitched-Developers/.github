@@ -43,7 +43,7 @@ Big digital eyes, a glitch smile, a revolver behind his back.
 |Vovakovtyn2008|Russia|⚛️ Riding the quantum bear|
 
 Nei live in digital world and she is Mascot + QA (intentionally break all) 🤖
-```
+
 
 ## 🎉 Statistics
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
